@@ -1,2 +1,2 @@
 # Uconn-Bootcamp-HW1
-Repository for my First Homework Assignment 
+This is a repository for my First Homework Assignment 
